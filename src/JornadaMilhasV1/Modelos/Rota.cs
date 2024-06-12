@@ -1,10 +1,4 @@
 ﻿using JornadaMilhasV1.Validador;
-using Microsoft.Extensions.Options;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace JornadaMilhasV1.Modelos;
 

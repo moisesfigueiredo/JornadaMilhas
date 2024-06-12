@@ -10,7 +10,7 @@ while (true)
 {
     ExibirMenu();
 
-    Console.WriteLine("Boas vindas ao Jornada Milhas. Escolha uma opção:");
+    Console.WriteLine("Bem-vindo ao Jornada Milhas. Escolha uma opção:");
     string opcao = Console.ReadLine()!;
 
     switch (opcao)
@@ -25,7 +25,7 @@ while (true)
             Console.WriteLine("Ofertas com maior desconto:");
             return;
         case "4":
-            Console.WriteLine("Obrigada por utilizar o Jornada Milhas. Até mais!");
+            Console.WriteLine("Obrigado por utilizar o Jornada Milhas. Até mais!");
             return;
         default:
             Console.WriteLine("Opção inválida. Tente novamente.");

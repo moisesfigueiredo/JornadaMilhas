@@ -1,8 +1,5 @@
-﻿using Bogus;
-using JornadaMilhas.Dados;
-using JornadaMilhasV1.Gerenciador;
+﻿using JornadaMilhas.Dados;
 using JornadaMilhasV1.Modelos;
-using Microsoft.EntityFrameworkCore;
 
 namespace JornadaMilhas.Test.Integracao
 {
